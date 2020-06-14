@@ -1,6 +1,6 @@
 # Hackathon CCR > *Frequência CCR*
 
-*slogan*
+*Frequência CCR, com você de ponta a ponta.*
 
 ## 🚚 O desafio: melhorar a saúde dos guerreiros da estrada!
 *Construir soluções que vão ajudar caminhoneiros por todo país*<br />
@@ -13,7 +13,7 @@ vida desses profissionais?
 
 ## 🚀 A solução: Frequência CCR
 
-Resumo
+Frequência CCR é o aplicativo de streaming de áudio e podcast que pensa na qualidade de vida dos caminhoneiros, garantindo a transmissão de conteúdo mesmo nas áreas sem sinal, com o armazenamento na memória, e transmitindo inserções entre os conteúdos que trazem informações sobre saúde e outros temas importantes para os caminhoneiros, ajudando em sua conscientização.
 
 ### 🛠 Principais Recursos
 - Dicas de saúde
