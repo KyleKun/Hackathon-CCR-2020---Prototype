@@ -1,16 +1,47 @@
-# hackathon_ccr_prototype
+# Hackathon CCR > *Frequência CCR*
 
-A new Flutter project.
+*slogan*
 
-## Getting Started
+## 🚚 O desafio: melhorar a saúde dos guerreiros da estrada!
+*Construir soluções que vão ajudar caminhoneiros por todo país*<br />
+Com uma das maiores frotas de caminhões do mundo o Brasil se movimenta pelas estradas e
+rodovias, carregando praticamente tudo, e mesmo em tempos de pandemia essa circulação não
+pode parar.
 
-This project is a starting point for a Flutter application.
+Juntando conhecimento e tecnologia, conseguimos criar soluções que melhorem a qualidade de
+vida desses profissionais?
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 A solução: Frequência CCR
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Resumo
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🛠 Principais Recursos
+- Dicas de saúde
+- Controle total por WhatsApp
+- Conteúdo DEDICADO à caminhoneiros
+- Reporte de acidentes e aviso em tempo real
+- Playlist personalizadas, baseadas em suas preferências
+
+### 🤝 Proposta de Valor
+O app *Frequência CCR* foi desenvolvido em resposta ao desafio proposto pela CCR de melhorar a rotina dos caminhoneiros, baseado nos seguintes pilares:<br /><br />
+
+VANTAGENS
+ - *Dicas de sáude*: Permite que você fique por dentro das melhores práticas, sejam elas exercícios simples, dicas de alimentação, entre outras. Tudo isso através de um canal amigável, onde nenhum app vai tentar controlar sua rotina :)
+ - *Facilidade de acesso*: Diga o que você quer ouvir da maneira mais confortável: Digitando uma mensagem no WhatsApp!
+ - *Solidariedade*: Facilita o aviso de acidentes na pista, e todos os ouvintes serão notificados
+ 
+ ### 🔗 Links
+- Video Pitch: [Youtube]()
+- Protótipo: [Link](https://frequenciaccr.web.app/#/)
+- Código Bot WhatsApp: [Github](https://github.com/gutovesco/whatsapp-bot)
+ 
+ ### ⚙ Tecnologias
+ - *[Flutter](https://flutter.dev/)* 
+ - *[Sulla (JS)](https://www.npmjs.com/package/sulla)*
+ 
+ ## 💪 Time
+  - Azrael Garden (Designer) - [LinkedIn](https://www.linkedin.com/in/azrael-garden-57a21b176/)
+  - Augusto Vesco (Dev) - [LinkedIn](https://www.linkedin.com/in/augusto-raveli-a01254180/)
+  - Caio Pedroso (Dev) - [Linkedin](https://www.linkedin.com/in/caio-pedroso/)
+  - Samuel Santos (Dev) - [LinkedIn](https://www.linkedin.com/in/samuel-santos-389492150/)
+  - Yves Alvim (Business) - [LinkedIn](https://www.linkedin.com/in/yves-de-almeida-alvim-bb5ba2b0/)
