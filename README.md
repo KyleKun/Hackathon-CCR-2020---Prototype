@@ -27,7 +27,7 @@ Frequência CCR é o aplicativo de streaming de áudio e podcast que pensa na qu
 O app *Frequência CCR* foi desenvolvido em resposta ao desafio proposto pela CCR de melhorar a rotina dos caminhoneiros, baseado nos seguintes pilares:<br /><br />
 
 NOSSAS VANTAGENS
- - *Dicas de sáude*: Permite que você fique por dentro das melhores práticas, sejam elas exercícios simples, dicas de alimentação, entre outras. Tudo isso através de um canal amigável, onde nenhum app vai tentar controlar sua rotina :)
+ - *Dicas de saúde*: Permite que você fique por dentro das melhores práticas, sejam elas exercícios simples, dicas de alimentação, entre outras. Tudo isso através de um canal amigável, onde nenhum app vai tentar controlar sua rotina :)
  - *Facilidade de acesso*: Diga o que você quer ouvir da maneira mais confortável, basta digitar uma mensagem no WhatsApp!
  - *Segurança*: Facilita o aviso de acidentes na pista, e todos os ouvintes serão notificados ;)
  
