@@ -4,6 +4,7 @@
 
 ## 🚚 O desafio: melhorar a saúde dos guerreiros da estrada!
 *Construir soluções que vão ajudar caminhoneiros por todo país*<br />
+
 Com uma das maiores frotas de caminhões do mundo o Brasil se movimenta pelas estradas e
 rodovias, carregando praticamente tudo, e mesmo em tempos de pandemia essa circulação não
 pode parar.
@@ -25,13 +26,13 @@ Frequência CCR é o aplicativo de streaming de áudio e podcast que pensa na qu
 ### 🤝 Proposta de Valor
 O app *Frequência CCR* foi desenvolvido em resposta ao desafio proposto pela CCR de melhorar a rotina dos caminhoneiros, baseado nos seguintes pilares:<br /><br />
 
-VANTAGENS
+NOSSAS VANTAGENS
  - *Dicas de sáude*: Permite que você fique por dentro das melhores práticas, sejam elas exercícios simples, dicas de alimentação, entre outras. Tudo isso através de um canal amigável, onde nenhum app vai tentar controlar sua rotina :)
- - *Facilidade de acesso*: Diga o que você quer ouvir da maneira mais confortável: Digitando uma mensagem no WhatsApp!
- - *Solidariedade*: Facilita o aviso de acidentes na pista, e todos os ouvintes serão notificados
+ - *Facilidade de acesso*: Diga o que você quer ouvir da maneira mais confortável, basta digitar uma mensagem no WhatsApp!
+ - *Segurança*: Facilita o aviso de acidentes na pista, e todos os ouvintes serão notificados ;)
  
  ### 🔗 Links
-- Video Pitch: [Youtube]()
+- Video Pitch: [Youtube](https://www.youtube.com/watch?v=n6aQlLRiCPc)
 - Protótipo: [Link](https://frequenciaccr.web.app/#/)
 - Código Bot WhatsApp: [Github](https://github.com/gutovesco/whatsapp-bot)
  

@@ -39,13 +39,16 @@ void main() => runApp(Showcase(
             letterSpacing: 2),
         buttonIconTheme: IconThemeData(color: Colors.black)),
     links: [
+      LinkData(
+          title: 'Pitch',
+          icon: Image.asset('assets/images/youtube.png', fit: BoxFit.fitHeight),
+          url: 'https://www.youtube.com/watch?v=n6aQlLRiCPc'),
       LinkData.github(
           'https://github.com/KyleKun/Hackathon-CCR-2020-Prototype'),
     ],
     logoLink: LinkData(
-        title: 'Pitch',
-        icon: Image.asset('assets/images/youtube.png', fit: BoxFit.fitHeight),
-        url: 'https://www.youtube.com/'),
+      icon: Image.asset('assets/images/logo.png', fit: BoxFit.fitHeight),
+    ),
     title: 'Frequência CCR',
     description:
         'Bem vindo(a) ao protótipo Frequência CCR!\nClique no ícone do WhatsApp e envie um "Oi" para começar.',
